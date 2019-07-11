@@ -1,4 +1,4 @@
-# Rugby-Score-Keeper
+# RugbyScoreKeeper
 Android Basics by Google Nanodegree Program
 
 Project: Score Keeper App
